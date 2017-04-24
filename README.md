@@ -5,7 +5,7 @@ This is an offline movie database for all the movies you would like to see in th
 
 Setup:
 
-  All you need to do is to make a folder for the program. In this folder the program will make a my_data.dat file if there wasn't one already. This will contain the list elements. Also you need to have Java installed.
+  All you need to do is to make a folder for the program. In this folder the program will make a my_data.dat file if there wasn't one already. This will contain the list elements. Also you need to have Java installed. When you first start up the program it should show you an empty list, so it's up to you to add your movies in there.
 
 Features:
 
